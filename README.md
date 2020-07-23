@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 My self introduction:👇
+
+[![1000x420](https://user-images.githubusercontent.com/438920/84861219-66036b00-b025-11ea-956b-0b5e009e0d78.gif "Fatih Arslan")](https://github.com/fatih)
 
 Here are some ideas to get you started:
 
