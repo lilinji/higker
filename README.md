@@ -12,3 +12,4 @@
 - 😄 Pronouns: `Coding is fun😜`
 <!-- - ⚡ Fun fact: ... -->
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=radical)
