@@ -5,11 +5,10 @@
 
 - 🔭 I’m currently working on `Golang` `Go+` 👉 [goplus.org](https://goplus.org)
 - 🌱 I’m currently learning `Go+`
-- 👯 I’m looking to collaborate on `Contribute to interesting open source projects together`
 - 🤔 I’m looking for help with `Find Golang develop job`
-- 💬 Ask me about `Twitter:GeekDeen`
-- 📫 How to reach me: `deen.job@qq.com`
 - 😄 Pronouns: `Coding is fun😜`
 <!-- - ⚡ Fun fact: ... -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
