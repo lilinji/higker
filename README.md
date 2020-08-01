@@ -3,8 +3,6 @@
 <!-- [![1000x420](https://user-images.githubusercontent.com/438920/84861219-66036b00-b025-11ea-956b-0b5e009e0d78.gif "GeekDeen")](https://github.com/higker) -->
 
 
-![MUSIC](https://music.163.com/outchain/player?type=2&id=1401447220&auto=1&height=66)
-
 - 🔭 I’m currently working on `Golang` `Go+` 👉 [goplus.org](https://goplus.org)
 - 🌱 I’m currently learning `Go+`
 - 🤔 I’m looking for help with `Find Golang develop job`
