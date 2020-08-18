@@ -3,7 +3,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higker&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/panjf2000/panjf2000/master/bg.gif" />
+  <img align="center" src="https://i.gifer.com/Ra0b.gif" />
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=algolia" alt="dingshuo's github stats" />
