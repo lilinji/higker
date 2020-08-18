@@ -2,9 +2,13 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higker&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- <p align="center">
+
+<!-- 
+- 🤔 I’m looking for help with `Find Golang develop job`
+<p align="center">
   <img align="center" src="https://i.gifer.com/Ra0b.gif" />
-</p>  -->
+</p>  
+-->
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=algolia" alt="dingshuo's github stats" />
 
@@ -15,7 +19,7 @@
 - 👬 i like to make friend
 - 🌏 Open-source software developer
 - 😄 Pronouns `Coding is fun😜`
-- 🤔 I’m looking for help with `Find Golang develop job`
+
 - [![](https://img.shields.io/badge/-Golang-3776AB?style=flat-square&logo=go&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Rust-F05032?style=flat-square&logo=rust&logoColor=white)](#)
