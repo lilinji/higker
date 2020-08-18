@@ -6,7 +6,7 @@
   <img align="center" src="https://i.gifer.com/Ra0b.gif" />
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=algolia" alt="dingshuo's github stats" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=algolia" alt="dingshuo's github stats" /> -->
 
 <h2 align="center">Hi 👋 My self introduction:👇</h1>
 
