@@ -20,13 +20,12 @@
 
 <h2 align="center">Hi 👋 My self introduction:👇</h1>
 
-- 👨‍💻‍ `Go Programmer`
--   `Apple product fans`
-- 👬  `I like to make friend`
-- 🌏  `Open-source software developer`
-- 🌱 I’m currently learning `Go+`
-- 🤔 I’m looking for help with `Find Golang develop job`
+- 👨‍💻‍ Go Programmer
+-  Apple product fans
+- 👬 I like to make friend
+- 🌏 Open-source software developer
 - 😄 Pronouns: `Coding is fun😜`
+- 🤔 I’m looking for help with `Find Golang develop job`
 - [![](https://img.shields.io/badge/-Golang-3776AB?style=flat-square&logo=go&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Rust-F05032?style=flat-square&logo=rust&logoColor=white)](#)
