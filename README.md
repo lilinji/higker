@@ -10,7 +10,6 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=algolia" alt="dingshuo's github stats" />
 
 
-<h2 align="center">Hi 👋 My self introduction:👇</h1>
 
 - 👨‍💻‍ Go Programmer
 -  Apple product fans
