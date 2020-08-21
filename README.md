@@ -19,7 +19,7 @@
 
 - [![](https://img.shields.io/badge/-Golang-3776AB?style=flat-square&logo=go&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](#)
-[![](https://img.shields.io/badge/-Rust-404040?style=flat-square&logo=rust&logoColor=white)](#)
+[![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 
 
