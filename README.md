@@ -18,7 +18,7 @@
 - 😄 Pronouns `Coding is fun😜`
 
 - [![](https://img.shields.io/badge/-Golang-3776AB?style=flat-square&logo=go&logoColor=white)](#)
-[![](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Rust-F05032?style=flat-square&logo=rust&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 
