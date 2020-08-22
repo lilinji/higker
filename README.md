@@ -19,8 +19,7 @@
 
 - [![](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
-[![](https://img.shields.io/badge/-intellijIDEA-000000?style=flat-square&logo=intellijIDEA&logoColor=white)](#)
-
+[![](https://img.shields.io/badge/IDE-Goland-000000?style=flat-square&logo=jetbrains&logoColor=white)](#)
 
 
 <!-- 
