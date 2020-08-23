@@ -20,7 +20,7 @@
 - [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](#)
 [![](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=White)](#)
-[![](https://img.shields.io/badge/Vim-green?style=flat-square&logo=Vim&logoColor=White)](#)
+[![](https://img.shields.io/badge/Vim-008B45?style=flat-square&logo=Vim&logoColor=White)](#)
 [![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
 
 
