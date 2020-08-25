@@ -17,8 +17,7 @@
 - 🌏 Open-source software developer
 - 😄 Pronouns `Coding is fun😜`
 
-- [![](https://img.shields.io/badge/Google-1E90FF?style=flat-square&logo=google&logoColor=white)](#)
-[![](https://img.shields.io/badge/Golang-blue?style=flat-square&logo=go&logoColor=white)](#)
+- [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=Golang&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](#)
 [![](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=White)](#)
 [![](https://img.shields.io/badge/Vim-008B45?style=flat-square&logo=Vim&logoColor=White)](#)
