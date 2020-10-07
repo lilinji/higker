@@ -12,7 +12,7 @@
 <img align="right" width="400px" src="https://i.loli.net/2020/10/07/BSeKLFMgHyfrzxd.gif"  />
 
 - 👨‍💻‍ Go Programmer
--  Apple product fans
+- 🍎 Apple product fans
 - 👬 i like to make friend
 - 🌏 Open-source software developer
 - 😄 Pronouns `Coding is fun😜`
