@@ -9,7 +9,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=algolia" alt="dingshuo's github stats" />
 -->
 
-<img align="right"  src="https://i.loli.net/2020/10/07/BSeKLFMgHyfrzxd.gif"  />
+<img align="right" width="600px" src="https://i.loli.net/2020/10/07/BSeKLFMgHyfrzxd.gif"  />
 
 - 👨‍💻‍ Go Programmer
 -  Apple product fans
