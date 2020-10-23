@@ -9,8 +9,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=higker&show_icons=true&theme=algolia" alt="dingshuo's github stats" />
 -->
 
-<img align="right"  width="500px" src="./cm.gif"  />
-
+<a href="https://masonicgit.github.io/pacman/" ><img align="right"  width="500px" src="./cm.gif"  /></a>
 - 👨‍💻‍ Go Programmer
 - 🍎 Apple product fans
 - 👬 i like to make friend
