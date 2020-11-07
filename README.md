@@ -15,7 +15,7 @@
 - 👬 i like to make friend
 - 🌏 Open-source software developer
 - 😄 Pronouns `Coding is fun😜`
-- ✅ 业余爱好网络安全方面研究
+- ✅ 自由职业者&全职开源
 
 - [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](#)
