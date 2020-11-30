@@ -10,11 +10,15 @@
 -->
 
 <a href="https://masonicgit.github.io/pacman/" target="_blank"><img align="right"  width="400px" src="./m.gif"  /></a>
-- 👨‍💻‍ Go Programmer
-- 🍎 Apple product fans
-- 👬 i like to make friend
-- 🌏 Open-source software developer
-- 😄 Pronouns `Coding is fun😜`
+👨‍💻‍ Go Programmer
+
+🍎 Apple product fans
+
+👬 i like to make friend
+
+🌏 Open-source software developer
+
+😄 Pronouns `Coding is fun😜`
 
 <p ><a href="https://www.ibyte.me"><img src="https://komarev.com/ghpvc/?username=higker">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhigker&longCache=true"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </a>
