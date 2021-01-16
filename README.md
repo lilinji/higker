@@ -10,7 +10,7 @@
 -->
 
 <a href="https://masonicgit.github.io/pacman/" target="_blank"><img align="right"  width="400px" src="./m.gif"  /></a>
-👨‍💻‍ Programmer
+👨‍💻‍ Go Programmer
 
 🍎 Apple product fans
 
