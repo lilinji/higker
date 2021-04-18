@@ -29,8 +29,7 @@
 [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=White)](#)
 [![](https://img.shields.io/badge/Vim-2E8B57?style=flat-square&logo=Vim&logoColor=White)](#)
 [![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
-
-
+![wechat](https://img.shields.io/badge/一手代码一首诗-%23323031?style=flat&logo=wechat)
 <!-- 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panjf2000&show_icons=true&theme=cobalt&layout=compact" alt="Top Langs" />
 -->
