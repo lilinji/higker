@@ -20,7 +20,7 @@
 
 🎈 Meet our team of [@Privoce](https://privoce.com/)
 
-[![wechat](https://img.shields.io/badge/公众号：一手代码一首诗-%23323031?style=flat&logo=wechat)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3MzQwNjcyNg==&mid=2247485256&idx=1&sn=1a24c3f79d1a0f6b0c4529792383a1ee&send_time=)
+[![wechat](https://img.shields.io/badge/公众号：一手代码一首诗-%23323031?style=flat&logo=wechat)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzI3MzQwNjcyNg==&mid=2247485256&idx=1&sn=1a24c3f79d1a0f6b0c4529792383a1ee&send_time=) 👈点击查看二维码
 
 <p ><a href="https://www.ibyte.me"><img src="https://komarev.com/ghpvc/?username=higker">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhigker&longCache=true"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </a>
